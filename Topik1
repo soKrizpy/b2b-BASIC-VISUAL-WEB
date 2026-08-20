@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Biodata Saya</title>
+    <style>
+      body {
+        background-color: lightblue;
+        font-family: Arial;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Mamang Santos</h1>
+    <p>Saya sedang belajar membuat website!</p>
+    <img src="https://picsum.photos/id/40/367/267"/>
+  </body>
+</html>
